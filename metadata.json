@@ -1,0 +1,6 @@
+{
+  "name": "ScaleSmart",
+  "description": "Premium Standard Calculator & smart IDR-USD Currency Price Comparator with real-time conversion difference and savings visualization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
